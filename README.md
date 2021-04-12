@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" width="320" height="305">
+<img src="https://img2.gratispng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" width="900" height="800">
  <br>
  Fundamentos .NET
 </h1>
