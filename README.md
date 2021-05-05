@@ -10,32 +10,32 @@ Esse bootcamp é para as pessoas que estão iniciando sua carreira em desenvolvi
 
 Plano de estudos:
 
-▪ Principios do desenvolvimento backend em .NET e c#
-▪ Principios de desenvolvimento frontend em .NET e c#
-▪ Backend: .NET (Core e Framework), C#, Typescript, VB6
-▪ SQL: SQL Server, Postgres, Oracle, Mysql, DB2
-▪ NoSQL: MongoDB, Redis
-▪ Source Control: Gitlab, Github, Azure Devops, TFS, SVN, Source Safe
-▪ Tests: xUnit, NUnit, Moq, Fitnesse, Specflow
-▪ Frontend: HTML, Javascript, CSS, Angular, JQuery
-▪ Methodologies & Frameworks: Scrum, Kanban, XP, Management 3.0, ITIL
-▪ Culture: Agile, Devops, Pair Programming
-▪ Software Design: DDD, BDD, TDD, SOLID, Clean Code
-▪ Software Architecture: N-Tier, Microservices
-▪ Containers: Docker, Kubernetes
-▪ Quality & Automation: Gitlab CI/CD, Sonar
-▪ Authentication & Authorization: ADFS, Azure AD, JWT, OAuth 2.0, Open ID
-▪ Data & ETL: CDAP
-▪ Messaging: RabbitMQ
-▪ Google Cloud Plataform: GKE, Stackdriver, Cloud Run, Cloud Scheduler, Cloud Pub/Sub, Cloud Secret Manager, Cloud Logging & Monitoring, Container Registry
-▪ AWS: Elastic Container Registry, System Manager Parameters
-▪ English: contato direto com a equipe no cliente em reuniões diárias de áudio e videoconferência por mais de 2 anos. Visita presencial ao cliente em maio/2016 (South Bend, Indiana, EUA)
-▪ Liderança e gestão de times de desenvolvimento e de suporte ao cliente
-▪ Recrutamento de novos desenvolvedores .NET e de novos estagiários
-▪ Análise e estimativa de pré-vendas
-▪ Análise técnica, análise de negócio, análise de processos
-▪ Desenho e proposta de arquitetura de soluções de software
-▪ Compartilhamento de conteúdo técnico (videos, artigos, palestras, cursos)
+- Principios do desenvolvimento backend em .NET e c#
+- Principios de desenvolvimento frontend em .NET e c#
+- Backend: .NET (Core e Framework), C#, Typescript, VB6
+- SQL: SQL Server, Postgres, Oracle, Mysql, DB2
+- NoSQL: MongoDB, Redis
+- Source Control: Gitlab, Github, Azure Devops, TFS, SVN, Source Safe
+- Tests: xUnit, NUnit, Moq, Fitnesse, Specflow
+- Frontend: HTML, Javascript, CSS, Angular, JQuery
+- Methodologies & Frameworks: Scrum, Kanban, XP, Management 3.0, ITIL
+- Culture: Agile, Devops, Pair Programming
+- Software Design: DDD, BDD, TDD, SOLID, Clean Code
+- Software Architecture: N-Tier, Microservices
+- Containers: Docker, Kubernetes
+- Quality & Automation: Gitlab CI/CD, Sonar
+- Authentication & Authorization: ADFS, Azure AD, JWT, OAuth 2.0, Open ID
+- Data & ETL: CDAP
+- Messaging: RabbitMQ
+- Google Cloud Plataform: GKE, Stackdriver, Cloud Run, Cloud Scheduler, Cloud Pub/Sub, Cloud Secret Manager, Cloud Logging & Monitoring, Container Registry
+- AWS: Elastic Container Registry, System Manager Parameters
+- English: contato direto com a equipe no cliente em reuniões diárias de áudio e videoconferência por mais de 2 anos. Visita presencial ao cliente em maio/2016 (South Bend, Indiana, EUA)
+- Liderança e gestão de times de desenvolvimento e de suporte ao cliente
+- Recrutamento de novos desenvolvedores .NET e de novos estagiários
+- Análise e estimativa de pré-vendas
+- Análise técnica, análise de negócio, análise de processos
+- Desenho e proposta de arquitetura de soluções de software
+- Compartilhamento de conteúdo técnico (videos, artigos, palestras, cursos)
 
 
 ## 👨🏻‍🚀 Sobre mim
