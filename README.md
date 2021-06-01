@@ -42,14 +42,29 @@ Conforme levantado nas principais características, o .net core está disponíve
 
 [Link do projeto Dotnet Core](https://github.com/dotnet/core)
 
-Linguagens / Templates
+### **Linguagens** / **Templates**
 
- Template description          | Template name        | Languages         |
- ----------------------------- | -------------------- |-------------------|
- Console application           | console              | [C#], F#, VB      |
-
-
-
+ Template description                        | Template name        | Languages         |
+ -----------------------------               | -------------------- |-------------------|
+ Console application                         | console              | [C#], F#, VB      |
+ Class library                               | classlib             | [C#], F#, VB      |
+ Unit test project                           | mstest               | [C#], F#, VB      |
+ xUnit test project                          | xunit                | [C#], F#, VB      |
+ ASP.NET Core empty                          | web                  | [C#], F#, VB      |
+ ASP.NET Core Web App (Model-View-Controller)| mvc                  | [C#], F#, VB      |
+ ASP.NET Core Web App                        | razor                | [C#], F#, VB      |
+ ASP.NET Core with Angular                   | angular              | [C#], F#, VB      |
+ ASP.NET Core with React.js                  | react                | [C#], F#, VB      |
+ ASP.NET Core with React.js and Redux        | reactredux           | [C#], F#, VB      |
+ ASP.NET Core Web API                        | webapi               | [C#], F#, VB      |
+ global.json file                            | globaljson           | [C#], F#, VB      |
+ Nuget config                                | nugetconfig          | [C#], F#, VB      |
+ Web config                                  | webconfig            | [C#], F#, VB      |
+ Solution file                               | sln                  | [C#], F#, VB      |
+ Razor page                                  | page                 | [C#], F#, VB      |
+ MVC/ViewImports                             | viewimports          | [C#], F#, VB      |
+ MVC ViewStart                               | viewstart            | [C#], F#, VB      |
+        
 ### Gerenciadores de Pacotes
 Para o .net core temos os seguintes gerenciadores de pacotes são suportado em um projeto.
 
