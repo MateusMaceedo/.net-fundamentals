@@ -37,6 +37,25 @@ Plano de estudos:
 - Desenho e proposta de arquitetura de soluções de software
 - Compartilhamento de conteúdo técnico (videos, artigos, palestras, cursos)
 
+#### Projeto no Github
+Conforme levantado nas principais características, o .net core está disponível no Github, projeto este que está aberto para que qualquer usuário que queria contribuir com melhorias, resolução de bugs, etc, possa submeter seu merge request para avaliação da comunidade e da Microsoft.
+
+[Link do projeto Dotnet Core](https://github.com/dotnet/core)
+
+Linguagens / Templates
+
+
+### Gerenciadores de Pacotes
+Para o .net core temos os seguintes gerenciadores de pacotes são suportado em um projeto.
+
+- [NuGet]()
+Gerenciador de pacotes para plataforma de desenvolvimento Microsoft;
+
+- [NPM]()
+Gerenciador de pacotes para JavaScript, amplamente utilizado pela comunidade de desenvolvimento com JavaScript;
+
+- [Bower]()
+Gerenciador de pacotes para aplicações web (HTML, JavaScript, and CSS).
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
