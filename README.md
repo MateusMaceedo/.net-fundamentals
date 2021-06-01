@@ -44,6 +44,11 @@ Conforme levantado nas principais características, o .net core está disponíve
 
 Linguagens / Templates
 
+ Template description          | Template name        | Languages         |
+ ----------------------------- | -------------------- |-------------------|
+ Console application           | console              | [C#], F#, VB      |
+
+
 
 ### Gerenciadores de Pacotes
 Para o .net core temos os seguintes gerenciadores de pacotes são suportado em um projeto.
