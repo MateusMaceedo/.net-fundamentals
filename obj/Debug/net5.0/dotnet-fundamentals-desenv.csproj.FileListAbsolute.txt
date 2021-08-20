@@ -1,0 +1,16 @@
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/dotnet-fundamentals-desenv
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/dotnet-fundamentals-desenv.deps.json
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/dotnet-fundamentals-desenv.runtimeconfig.json
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/dotnet-fundamentals-desenv.runtimeconfig.dev.json
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/dotnet-fundamentals-desenv.dll
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/ref/dotnet-fundamentals-desenv.dll
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/bin/Debug/net5.0/dotnet-fundamentals-desenv.pdb
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.csprojAssemblyReference.cache
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.AssemblyInfoInputs.cache
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.AssemblyInfo.cs
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.csproj.CoreCompileInputs.cache
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.dll
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/ref/dotnet-fundamentals-desenv.dll
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.pdb
+/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/obj/Debug/net5.0/dotnet-fundamentals-desenv.genruntimeconfig.cache
