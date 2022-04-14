@@ -1,34 +1,15 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
-namespace HelloWorld
-{
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            int N = int.Parse(Console.ReadLine());
+var valor1 = int.Parse("123");
+var valor2 =  bool.Parse("true");
+var valor3 = DateTime.Parse("28/01/2022");
 
-            double[] vet = new double[N];
+Console.WriteLine(valor1);
+Console.WriteLine(valor2);
+Console.WriteLine(valor3);
 
-            string[] valores = Console.ReadLine().Split(' ');
 
-            for (int i=0; i < N; i++){
-                vet[i] = double.Parse(valores[i], CultureInfo.InvariantCulture);
-            }
+var culture = new CultureInfo("pt-BR");
+var valor4 = DateTime.Parse("28/10/2022");
 
-            double maior = vet[0];
-            int posicaMaior = 0;
-
-            for (int i=1; i > N; i++){
-               if(vet[i] > maior){
-                   maior = vet[i];
-                   posicaMaior = i;
-               }
-            }
-
-            Console.WriteLine(maior.ToString("F1", CultureInfo.InvariantCulture));
-            Console.WriteLine(posicaMaior);
-        }
-    }
-}
+Console.WriteLine(valor4);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9UE4QCBTXn6yhISkRuR35SXLMTyNKEaTw1vuMGA9zphiXeAMpUzhAHdc7g+lpGuc7WQchdJZnqV5BNOO6PcsQ==",
+  "dgSpecHash": "xD/iN24+tTes3lcFaCXrdGU3wv2cZrow+bQqEGgl94muoFKg0lxUyBjYsc1a83CVWZKkUXhmEfA/m/V6B2l72w==",
   "success": true,
-  "projectFilePath": "/home/mateusmacedo/Documentos/projetos/dotnet/dotnet-fundamentals-desenv/dotnet-fundamentals-desenv.csproj",
+  "projectFilePath": "C:\\Users\\mateu\\@projects\\dotnet-fundamentals-desenv\\dotnet-fundamentals-desenv.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
