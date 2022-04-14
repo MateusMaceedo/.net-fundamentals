@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dotnet-fundamentals-desenv/1.0.0": {
+        "runtime": {
+          "dotnet-fundamentals-desenv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-fundamentals-desenv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
